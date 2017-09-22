@@ -1,0 +1,1 @@
+# motivar-wordpress-gitignore
